@@ -1,0 +1,8 @@
+a + b infix
++ a b prefix
+a b + postfix
+
+(b+(b^a-b*a*c))/(b*a)
+(b+(b^a-b*a*c)) (b*a) /
+b (b^a-b*a*c) + b a * /
+b b a ^ b a * c * - + b a * /
